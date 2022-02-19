@@ -38,7 +38,29 @@ Future updates will include features such as showing lyrics of the given song an
 3. After that You have to give the Stroage access permission.
 4. You are good to go;)
 
+## Demo
+
+![Logo](https://cdn.discordapp.com/attachments/926055068271251467/944668048231657472/WhatsApp_Image_2022-02-20_at_00.12.44.jpeg)
+![Songs](https://cdn.discordapp.com/attachments/926055068271251467/944668048021938258/WhatsApp_Image_2022-02-20_at_00.12.54.jpeg)
+![Music-UI](https://cdn.discordapp.com/attachments/926055068271251467/944668047841562634/WhatsApp_Image_2022-02-20_at_00.12.54_1.jpeg)
 
 
-![image](https://user-images.githubusercontent.com/66058598/154810174-b917d6fd-ef5c-4b71-8f14-4eeba6a81c2b.png)
+## Authors
+
+- [@BuddhadebChhetri](https://github.com/Buddhad)
+
+
+## 🚀 About Me
+I'm a Frontend Developer and i like to build projects that we can communicate with.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://buddhadebchhetri.bio.link/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buddhadebchhetri/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Buddhadeb01)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
