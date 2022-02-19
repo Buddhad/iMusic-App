@@ -2,7 +2,6 @@
 
 ## Where words fail, music speaks 
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Buddhad/iMusic-App)
 ![Contributors](https://img.shields.io/github/contributors/Buddhad/iMusic-App)
 ![Forks](https://img.shields.io/github/forks/Buddhad/iMusic-App)
 ![Stars](https://img.shields.io/github/stars/Buddhad/iMusic-App)
@@ -32,8 +31,14 @@ One of the most challenging parts was retrieving data from the mobile storage.
 Future updates will include features such as showing lyrics of the given song and karaoke features.
 
 ## How to Install and Run the Project
+- **Steps to download the app**
 
-To install, simply download the apk file in your Android device mentioned in the v1.Beta and start using it.
+1. To install ,simply download the apk file in your Android device mentioned in the v1.0-beta or either you can refer to this [Link](https://github.com/Buddhad/iMusic-App/tree/master/APKfile/Imusic).
+2. Then give the permission to Install unknown apps. 
+3. After that You have to give the Stroage access permission.
+4. You are good to go;)
+
+
 
 ![image](https://user-images.githubusercontent.com/66058598/154810174-b917d6fd-ef5c-4b71-8f14-4eeba6a81c2b.png)
 
