@@ -62,5 +62,5 @@ I'm a Frontend Developer and i like to build projects that we can communicate wi
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Buddhad/iMusic-App/blob/master/LICENSE)
 
